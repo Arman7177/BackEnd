@@ -1,0 +1,11 @@
+{
+  "name": "Arman",
+  "age": 25,
+  "skills": [
+    "JS",
+    "Node",
+    "HTML"
+  ],
+  "country": "Armenia",
+  "isStudent": true
+}
