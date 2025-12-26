@@ -1,0 +1,23 @@
+[
+  {
+    "id": "628961dd-f88e-4078-b6c3-cdeee5085145",
+    "title": "James",
+    "description": "Read a book",
+    "completed": false,
+    "createdAt": "2025-12-26T06:51:47.373Z"
+  },
+  {
+    "id": "bc06e2f5-2a6a-4696-957e-d4407de62b11",
+    "title": "John",
+    "description": "Eat a burger",
+    "completed": false,
+    "createdAt": "2025-12-26T06:52:52.281Z"
+  },
+  {
+    "id": "08429478-da9c-40d4-a0f1-21d52a46e2a2",
+    "title": "Sara",
+    "description": "Go to Gym",
+    "completed": false,
+    "createdAt": "2025-12-26T07:30:21.807Z"
+  }
+]
